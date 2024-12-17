@@ -6,7 +6,6 @@
 =======
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Order-Process-System-Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OrderProcessusSystem-JAVA" vcs="Git" />
 >>>>>>> 3c46f5c (adding idea)
   </component>

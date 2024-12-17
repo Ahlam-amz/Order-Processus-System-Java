@@ -9,10 +9,14 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
 =======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
 >>>>>>> 3c46f5c (adding idea)
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+>>>>>>> ea7986d (first commit)
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
